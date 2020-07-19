@@ -8,8 +8,11 @@ The dataset consists of Amazon customer reviews , star ratings, date of review, 
 CLASSIFICATION REPORT:
 
 ACCURACY:0.9428
+
 PRECISION:0.9411
+
 F1 SCORE:0.9696
+
 RECALL:1
 
 
